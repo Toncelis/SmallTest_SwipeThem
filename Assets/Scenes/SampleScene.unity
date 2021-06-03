@@ -1495,6 +1495,7 @@ MonoBehaviour:
   textAnimationLength: 1
   carRb: {fileID: 824017591}
   losePanel: {fileID: 1961233989}
+  inputManager: {fileID: 1262502649}
   winPanel: {fileID: 1828520960}
 --- !u!1 &1536026795
 GameObject:
